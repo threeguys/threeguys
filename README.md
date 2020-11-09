@@ -1,6 +1,14 @@
-### Hi there 👋
+# Howdy!
 
-![I Voted!](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
+Thanks for visiting my github page, I hope you find something useful in my repos. I started programming at age 11 on a used Apple \]\[ plus using a book that had games in BASIC, which you typed in by hand. By the time I got to the end of the book, it made enough sense to start writing my own programs. Since then, I've been in the software industry for 30 years, a Principal Engineer at AWS for 6 years, and most recently as a Senior Principal at a Bellevue startup (hit me up, we're hiring talented engineers!).
+
+Most of the repos here are just doodles I have put together chasing some wild idea at 2 AM on a Saturday, hopefully they can be useful to someone. Please feel free to make recommendations, pull requests, comments, or just drop me a message to say hi! I am deeply passionate about software, technology, and anything related to operating large scale SaaS and PaaS systems. I have been toying with the idea of making a live stream so folks can see how software is actually made, if you think this is something you might be interested in, please reach out!
+
+- I'm currently working on a FaaS platform based on WASM.
+- I'm currently learning Tensorflow, Terraform, Rust, and Embedded Programming.
+- Ask me about design reviews, code critique, DevOps, scalability, and availability.
+- Fun fact: I'm also an ordained minister, need a marriage in Seattle? I guarantee it won't be boring...
+- I maintain a relentlessly high standard for myself and constantly try to improve, if you see something wonky, please ask, I welcome all constructive criticism.
 
 <!--
 **threeguys/threeguys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
